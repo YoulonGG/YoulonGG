@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youlong</h1>
-<h3 align="center">I am a junior Android Developer from Cambodia.</h3>
+<!-- <h3 align="center">I am a junior Android Developer from Cambodia.</h3> -->
 
 <p align="left">
 </p>
